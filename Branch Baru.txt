@@ -4,5 +4,9 @@ Branch Baru
 -Penambahan Text di baris kedua
 -Penambahan Text di baris ketiga
 
+
+-Penambahan oleh Dede fitur edit
+
 -Perubahan New page oleh Frans
+
 2022
